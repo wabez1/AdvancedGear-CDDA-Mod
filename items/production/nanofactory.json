@@ -36,7 +36,7 @@
     "dispersion" : 0,
     "recoil" : 0,
     "count" : 100,
-    "effects" : "NEVER_MISFIRES"
+    "effects" : [ "NEVER_MISFIRES" ]
   },{
     "type" : "AMMO",
     "id" : "3d_resin_metal",
@@ -60,7 +60,7 @@
     "dispersion" : 0,
     "recoil" : 0,
     "count" : 100,
-    "effects" : "NEVER_MISFIRES"
+    "effects" : [ "NEVER_MISFIRES" ]
   },{       
     "type" : "AMMO",
     "id" : "3d_resin_electronic",
@@ -84,7 +84,7 @@
     "dispersion" : 0,
     "recoil" : 0,
     "count" : 100,
-    "effects" : "NEVER_MISFIRES"
+    "effects" : [ "NEVER_MISFIRES" ]
   },{
     "type" : "ammunition_type",
     "id" : "3d_resin",
